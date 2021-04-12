@@ -1,0 +1,10 @@
+{
+  "WeatherUrl" : "weather",
+  "OneCallUrl" : "onecall",
+  "CITY" : "Sydney",
+  "APP_ID" : "1ff35072ec846847123459733ef8e9c6",
+  "UNIT" : "metric",
+  "EXCLUDE_DATA" : "hourly,minutely",
+  "LAT" : "-33.8679",
+  "LONG" : "151.2073"
+}
