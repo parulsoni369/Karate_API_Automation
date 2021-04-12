@@ -1,11 +1,11 @@
 # Karate_API_Automation
 This is a project on Open Weather Map APIs test automation using Karate API BDD Automation Framework.
 
-##Feature:
+## Feature:
 Get Weather Forecast For Sydney
-###Scenario 1: 
+### Scenario 1: 
 Get Current Weather forecast for Sydney City.
-###Scenario 2: 
+### Scenario 2: 
 Get Weather forecast for Sydney City for next 7 days and validate temperature for Thursday
 
 ## Setup
